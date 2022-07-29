@@ -1,7 +1,5 @@
 # Discord Hastebin Bot
 
-<hr />
-
 ### Setup:
 
 #### Note: You must have node.js installed on your computer.
