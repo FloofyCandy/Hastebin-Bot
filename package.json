@@ -1,0 +1,25 @@
+{
+  "name": "hastebin-bot",
+  "version": "1.0.0",
+  "description": "A Simple Discord Hastebin Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloofyCandy/Hastebin-Bot.git"
+  },
+  "author": "FloofyCandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FloofyCandy/Hastebin-Bot/issues"
+  },
+  "homepage": "https://github.com/FloofyCandy/Hastebin-Bot#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "discord.js": "^14.0.3",
+    "hastebin": "^0.2.1",
+    "node-fetch": "^3.2.9"
+  }
+}
