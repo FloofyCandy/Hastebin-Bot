@@ -1,5 +1,5 @@
 # Discord Hastebin Bot
- A Simple Discord Hastebin Bot
+ ## A Simple Discord Hastebin Bot
 
 <hr />
 
